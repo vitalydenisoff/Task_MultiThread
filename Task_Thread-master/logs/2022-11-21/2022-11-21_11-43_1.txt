@@ -1,0 +1,10 @@
+2022-11-21 11:42:23 [pool-2-thread-3] INFO  multithreading.entity.Pier [[unload]] - Ship 3 is unloaded
+2022-11-21 11:42:23 [pool-2-thread-3] INFO  multithreading.entity.Port [[returnPier]] - Pier number 0 is free
+2022-11-21 11:42:23 [pool-2-thread-3] INFO  multithreading.entity.Port [[getPier]] - Ship number 5 took pier number 0 
+2022-11-21 11:42:23 [pool-2-thread-4] INFO  multithreading.entity.Pier [[unload]] - Ship 4 is unloaded
+2022-11-21 11:42:23 [pool-2-thread-4] INFO  multithreading.entity.Port [[returnPier]] - Pier number 1 is free
+2022-11-21 11:42:23 [pool-2-thread-3] INFO  multithreading.entity.Pier [[unload]] - Ship 5 is unloaded
+2022-11-21 11:42:23 [pool-2-thread-3] INFO  multithreading.entity.Port [[returnPier]] - Pier number 0 is free
+2022-11-21 11:43:21 [pool-2-thread-4] INFO  multithreading.entity.Port [[<init>]] - Port is create
+2022-11-21 11:43:21 [pool-2-thread-4] INFO  multithreading.entity.Port [[getPier]] - Ship number 4 took pier number 0 
+2022-11-21 11:43:21 [pool-2-thread-2] INFO  multithreading.entity.Port [[getPier]] - Ship number 2 took pier number 1 

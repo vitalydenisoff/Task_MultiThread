@@ -1,0 +1,9 @@
+2022-11-21 16:56:46 [pool-2-thread-2] INFO  multithreading.entity.Port [[<init>]] - Port is create
+2022-11-21 16:56:46 [pool-2-thread-2] INFO  multithreading.entity.Ship [[run]] - The ship number 2 entered the port
+2022-11-21 16:56:46 [pool-2-thread-4] INFO  multithreading.entity.Ship [[run]] - The ship number 4 entered the port
+2022-11-21 16:56:46 [pool-2-thread-2] INFO  multithreading.entity.Port [[getPier]] - Ship number 2 took pier number 0 
+2022-11-21 16:56:46 [pool-2-thread-3] INFO  multithreading.entity.Ship [[run]] - The ship number 3 entered the port
+2022-11-21 16:56:46 [pool-2-thread-3] INFO  multithreading.entity.Port [[getPier]] - Ship number 3 took pier number 1 
+2022-11-21 16:56:46 [pool-2-thread-1] INFO  multithreading.entity.Ship [[run]] - The ship number 1 entered the port
+2022-11-21 16:56:46 [pool-2-thread-5] INFO  multithreading.entity.Ship [[run]] - The ship number 5 entered the port
+2022-11-21 16:56:46 [pool-2-thread-4] INFO  multithreading.entity.Port [[getPier]] - All piers are busy,please wait 

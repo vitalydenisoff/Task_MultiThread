@@ -1,0 +1,10 @@
+2022-11-21 16:56:46 [pool-2-thread-5] INFO  multithreading.entity.Port [[getPier]] - All piers are busy,please wait 
+2022-11-21 16:56:46 [pool-2-thread-1] INFO  multithreading.entity.Port [[getPier]] - All piers are busy,please wait 
+2022-11-21 16:56:46 [pool-2-thread-2] INFO  multithreading.entity.Pier [[unload]] - Ship 2 is unloaded
+2022-11-21 16:56:46 [pool-2-thread-2] INFO  multithreading.entity.Port [[returnPier]] -  Ship number 2 vacated pier number 0 
+2022-11-21 16:56:46 [pool-2-thread-2] INFO  multithreading.entity.Ship [[run]] - Ship number 2 left the port
+2022-11-21 16:56:46 [pool-2-thread-4] INFO  multithreading.entity.Port [[getPier]] - Ship number 4 took pier number 0 
+2022-11-21 16:56:46 [pool-2-thread-3] INFO  multithreading.entity.Pier [[unload]] - Ship 3 is unloaded
+2022-11-21 16:56:46 [pool-2-thread-3] INFO  multithreading.entity.Port [[returnPier]] -  Ship number 3 vacated pier number 1 
+2022-11-21 16:56:46 [pool-2-thread-3] INFO  multithreading.entity.Ship [[run]] - Ship number 3 left the port
+2022-11-21 16:56:46 [pool-2-thread-5] INFO  multithreading.entity.Port [[getPier]] - Ship number 5 took pier number 1 

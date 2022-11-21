@@ -1,0 +1,1 @@
+2022-11-21 16:56:46 [pool-2-thread-1] INFO  multithreading.entity.Ship [[run]] - Ship number 1 left the port

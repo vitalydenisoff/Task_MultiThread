@@ -1,0 +1,10 @@
+2022-11-21 11:29:29 [pool-2-thread-3] INFO  multithreading.entity.Port [[<init>]] - Port is create
+2022-11-21 11:31:34 [pool-2-thread-4] INFO  multithreading.entity.Port [[<init>]] - Port is create
+2022-11-21 11:31:34 [pool-2-thread-4] INFO  multithreading.entity.Port [[getPier]] - Ship number 4 took pier number 
+2022-11-21 11:31:34 [pool-2-thread-4] INFO  multithreading.entity.Port [[getPier]] - Ship number 5 took pier number 
+2022-11-21 11:31:34 [pool-2-thread-1] INFO  multithreading.entity.Port [[getPier]] - Ship number 1 took pier number 
+2022-11-21 11:31:34 [pool-2-thread-2] INFO  multithreading.entity.Port [[getPier]] - Ship number 2 took pier number 
+2022-11-21 11:33:29 [pool-2-thread-3] INFO  multithreading.entity.Port [[<init>]] - Port is create
+2022-11-21 11:33:29 [pool-2-thread-1] INFO  multithreading.entity.Port [[getPier]] - Ship number 1 took pier number 0 
+2022-11-21 11:33:29 [pool-2-thread-1] INFO  multithreading.entity.Port [[getPier]] - Ship number 5 took pier number 1 
+2022-11-21 11:36:06 [pool-2-thread-1] INFO  multithreading.entity.Port [[<init>]] - Port is create
